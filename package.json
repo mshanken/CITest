@@ -1,0 +1,29 @@
+{
+  "name": "CITest",
+  "title": "Testing our ability to CI",
+  "description": "Another epic jekyll site.",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "James Meldrum",
+    "email": "jrm.general@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrm/CITest.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-concat": "~0.1.1",
+    "grunt-contrib-watch": "~0.1.4",
+    "grunt-contrib-jshint": "~0.3.0"
+  },
+  "keywords": []
+}
